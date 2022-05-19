@@ -14,3 +14,7 @@ We tested the codes with:
   2) [TensorFlow-GPU 1.13.1 or Tensorflow 1.13.1](https://www.tensorflow.org/install/pip)
 
 
+### Citation
+Please cite us if you are using our model or dataset in your research works: <br />
+
+[1] Leslie Ching Ow Tiong, Gunjick Lee, Seok Su Sohn and Donghun Kim, "Predicting failure characteristics of structural materials via deep learning based on nondestructive void topology," *arXiv:2201.13226*, 2022. (See [link](https://arxiv.org/abs/2205.09075)).
