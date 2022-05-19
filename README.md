@@ -21,7 +21,8 @@ Please download the pre-trained model from [Google Drive](https://drive.google.c
 material-failure-prediction (GitHub main folder)
 ├── Dataset
 │   └── Sample
-└── pretrain
+├── pretrain
+└── Result
 ```
 
 
