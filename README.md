@@ -15,6 +15,16 @@ We tested the codes with:
   3) [HomCloud API](https://homcloud.dev/python-api/)
 
 
+### Pre-trained and Test Sample
+Please download the pre-trained model from [Google Drive](https://drive.google.com/drive/folders/1_4Yr7Xnl04WTUSb_eVkLYFjq2J141Kl4?usp=sharing) and ensure that you set up our directories as follows:
+```
+material-failure-prediction (GitHub main folder)
+├── Dataset
+│   └── Sample
+└── pretrain
+```
+
+
 ### Citation
 Please cite us if you are using our model or dataset in your research works: <br />
 
