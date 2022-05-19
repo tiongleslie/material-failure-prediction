@@ -12,6 +12,7 @@ We tested the codes with:
 ### Requirements
   1) [Anaconda3](https://www.anaconda.com/distribution/#download-section)
   2) [TensorFlow-GPU 1.13.1 or Tensorflow 1.13.1](https://www.tensorflow.org/install/pip)
+  3) [HomCloud API](https://homcloud.dev/python-api/)
 
 
 ### Citation
