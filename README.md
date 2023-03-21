@@ -1,7 +1,7 @@
-# Predicting of Material Failure Properties Using Persistent Homology and Deep Learning
+# Predicting failure progressions of structural materials via deep learning based on void topology
 
 ### Introduction
-This work introduces a novel method to predict material failure behaviors based on a combination of persistent homology (PH) and deep multimodal learning.
+This work introduces a novel method to predict material failure behaviors based on a combination of persistent homology (PH) and deep multimodal learning, which is accepted by [Acta Materialia](https://www.sciencedirect.com/science/article/pii/S1359645423001933).
 
 ### Compatibility
 We tested the codes with:
