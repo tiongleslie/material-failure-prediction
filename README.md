@@ -30,4 +30,4 @@ material-failure-prediction (GitHub main folder)
 ### Citation
 Please cite us if you are using our model or dataset in your research works: <br />
 
-[1] Leslie Ching Ow Tiong, Gunjick Lee, Seok Su Sohn and Donghun Kim, "Predicting failure characteristics of structural materials via deep learning based on nondestructive void topology," *Acta Materialia*, vol. 250, pp. 118862, 2023. (See [link](https://www.sciencedirect.com/science/article/pii/S1359645423001933)).
+[1] Leslie Ching Ow Tiong, Gunjick Lee, Gyeong Hoon Yi, Seok Su Sohn and Donghun Kim, "Predicting failure characteristics of structural materials via deep learning based on nondestructive void topology," *Acta Materialia*, vol. 250, pp. 118862, 2023. (See [link](https://www.sciencedirect.com/science/article/pii/S1359645423001933)).
